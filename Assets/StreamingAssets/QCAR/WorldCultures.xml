@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vietnam" size="300.000000 300.000000" />
+    <ImageTarget name="Turki" size="300.000000 300.000000" />
+    <ImageTarget name="Thailand" size="300.000000 300.000000" />
+    <ImageTarget name="KoreaSelatan" size="300.000000 300.000000" />
+    <ImageTarget name="Meksiko" size="300.000000 300.000000" />
+    <ImageTarget name="Jepang" size="300.000000 300.000000" />
+    <ImageTarget name="Indonesia" size="300.000000 300.000000" />
+    <ImageTarget name="India" size="300.000000 300.000000" />
+    <ImageTarget name="Cina" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
